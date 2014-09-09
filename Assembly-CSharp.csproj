@@ -46,7 +46,20 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Buff\AttackBuff.cs" />
+     <Compile Include="Assets\Buff\Buff.cs" />
+     <Compile Include="Assets\Buff\DefendBuff.cs" />
+     <Compile Include="Assets\Buff\LuckyBuff.cs" />
+     <Compile Include="Assets\Buff\MagicHurtMultiplier.cs" />
+     <Compile Include="Assets\Buff\MagicPowerMultiplier.cs" />
+     <Compile Include="Assets\Buff\PhysicHurtMultiplierBuff.cs" />
+     <Compile Include="Assets\Buff\PhysicPowerMultiplierBuff.cs" />
+     <Compile Include="Assets\Buff\SpeedBuff.cs" />
      <Compile Include="Assets\GameController.cs" />
+     <Compile Include="Assets\HealthBarConfig.cs" />
+     <Compile Include="Assets\MagicController.cs" />
+     <Compile Include="Assets\Magic_XuanYuanJianZhen.cs" />
+     <Compile Include="Assets\ManaBarConfig.cs" />
      <Compile Include="Assets\NinJaController.cs" />
      <Compile Include="Assets\NinJaControllerCom.cs" />
      <Compile Include="Assets\test.cs" />

@@ -1,11 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NinJaController.cs">
     <Files>
-      <File FileName="Assets/NinJaController.cs" Line="35" Column="39" />
-      <File FileName="Assets/GameController.cs" Line="13" Column="12" />
-      <File FileName="Assets/NinJaControllerCom.cs" Line="4" Column="50" />
-      <File FileName="Assets/test.cs" Line="15" Column="3" />
+      <File FileName="Assets/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/MagicController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Magic_XuanYuanJianZhen.cs" Line="1" Column="1" />
+      <File FileName="Assets/NinJaControllerCom.cs" Line="1" Column="1" />
+      <File FileName="Assets/NinJaController.cs" Line="212" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
